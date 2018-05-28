@@ -1,1 +1,1 @@
-# Kedge-Surfing
+# KedgeSurfing

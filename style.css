@@ -1,0 +1,116 @@
+.appart {
+	padding: 5px;
+}
+
+.avg_num {
+display: none;
+}
+
+.profil{
+
+	width: 100%;
+	height:246px;
+	text-align: center;
+	padding-top: 30px;
+}
+
+#appart1{
+	background-image: linear-gradient(-225deg, rgba(40,68,62,0.6) 0%, rgba(40,68,62,0.6) 60%),url('appart1.png');
+}
+
+#appart2{
+	background-image: linear-gradient(-225deg, rgba(40,68,62,0.6) 0%, rgba(40,68,62,0.6) 60%),url('appart2.png');
+}
+
+#appart3{
+	background-image: linear-gradient(-225deg, rgba(40,68,62,0.6) 0%, rgba(40,68,62,0.6) 60%),url('appart3.png');
+}
+
+#appart4{
+	background-image: linear-gradient(-225deg, rgba(40,68,62,0.6) 0%, rgba(40,68,62,0.6) 60%),url('appart4.png');
+}
+
+.profil h1{
+	color:white;
+	line-height: 50%;
+	position: relative;
+	top: 30px;
+	font-size:150%;
+	font-family: 'Cormorant Garamond';
+}
+
+.profil p {
+	color:white;
+	line-height: 50%;
+	position: relative;
+	top: 39px;
+	font-size:120%;
+	font-family: 'Cormorant Garamond';
+	font-weight: italic; 
+}
+
+.avatar{
+	width: 54px;
+	height:54px;
+	border-radius: 50%;
+	border-style: groove;
+	border-width: 1px;
+}
+
+.imgappart{
+	border-radius: 1%;
+}
+
+#heading {
+	text-align: left;
+	padding:10px 0px;
+	font-family: 'Cormorant Garamond', serif; 
+    text-shadow: 2px 3px 5px rgb(220, 220, 220);
+}
+
+.carte{
+	padding-top: 5px;
+	border-radius: 1%;
+}
+
+
+.rouge {
+	color:#67AE9F;
+}
+
+.input-rouge:focus {
+	 outline: none !important;
+	 border: none;  
+    box-shadow: 0 0 10px #67AE9F;
+
+}
+
+.button{
+	border-color: #67AE9F;
+}
+
+#button:hover{
+	background-color:#67AE9F;
+}
+
+.no-padding-col {
+	padding: 0px;
+}
+
+#avatar {
+	border-radius: 50%;
+	padding-left: 10px;
+}
+
+#valider:hover{
+	background-color:#67AE9F;
+
+#valider {
+	font-family: 'Cormorant Garamond', serif;
+	background-color: #67AE9F;
+}
+
+#mail {
+	border-color: #E6A83D;
+}
+
