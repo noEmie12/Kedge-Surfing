@@ -1,0 +1,127 @@
+	
+#logo{
+	width: 250px;
+}
+
+/* bouttons haut */
+#button{
+	width: 100px; 
+	color: rgb(242, 242, 242);
+	background: rgb(103, 174, 159);
+	border: 1px solid rgb(103, 174, 159);
+	box-shadow: 2px 2px 2px rgb(220, 220, 210);
+
+}
+#button:hover{
+	background-color: rgb(242, 242, 242); 
+	color: rgb(103, 174, 159);
+	border-color: rgb(103, 174, 159);
+}
+#b2{
+	width: 150px; 
+	color: rgb(103, 174, 159);
+	background: rgb(242, 242, 242);
+	border: 1px solid rgb(103, 174, 159);
+	box-shadow: 2px 1px 2px rgb(220, 220, 210);
+}
+#b2:hover{
+	background-color: rgb(250, 180, 90); 
+	color: rgb(242, 242, 242);
+	border-color: rgb(250, 180, 90);
+}
+
+#Barre{
+	background-color: rgb(242, 242, 242);
+/*	padding: 10px; 
+	margin: 20px; */
+}
+
+#image1{
+	width: 100%;
+}
+
+.t1{
+color: grey; 
+}
+.t1:hover{
+	color: rgb(103, 174, 159);
+}
+
+#footer1{
+	background-color: rgb(240, 180, 82);
+	padding: 0.5px; 
+}
+
+.no-padding-col {
+	padding: 0px;
+}
+
+  /* Titre sur image */
+h1{
+	font-family: 'Quicksand', sans-serif;  
+	font-size: 50px; 
+	text-shadow: 4px 3px 5px rgb(220, 220, 220);
+
+}
+
+h2{
+	font-family: 'Cormorant Garamond', serif; 
+		text-shadow: 2px 3px 5px rgb(220, 220, 220);
+}
+
+/* icone language */
+#Langue{
+font-family:'Quicksand', sans-serif;  
+color: black; 
+}
+#Lfr{
+	color: rgb(250, 180, 90); 
+}
+#Len{
+	color: rgb(240, 180, 82); 
+}
+/* barre de recherche */
+
+#br{
+	color: rgb(103, 174, 159);
+	padding: 5px 0px 5px 10px;
+	
+
+}
+
+.input-rouge:focus {
+	 outline: none !important;
+	 border: none;  
+    box-shadow: 0 0 10px #67AE9F;
+
+}
+
+
+
+/*
+#searchthis #search {
+	background-color: white; 
+	border-style: solid;   
+	padding: 5px 60px 5px 10px;
+	border-color: rgb(240, 180, 82);   
+	box-sizing: border-box; 
+	font-family: Cormorant;   
+	font-size: 16px;   
+	letter-spacing: 1px;
+	border-radius: 50px;
+	color: rgb(240, 180, 82);
+}
+#searchthis #search-btn {
+	background-color: rgb(240, 180, 82);    
+	font-family: Cormorant;   
+	border-radius: 20px;
+	color: white;
+	border-color: rgb(240, 180, 82); 
+	width: 80px;
+	height: 38px;
+}
+#searchthis #search-btn:hover {
+	background-color: #E76465; 
+	color: white;
+}
+*/
